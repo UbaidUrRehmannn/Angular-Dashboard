@@ -5,7 +5,7 @@ name: Deploy to Firebase Hosting on merge
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
@@ -17,6 +17,6 @@ jobs:
           repoToken: '${{ secrets.PERSONAL_GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_CDK_ADMIN }}'
           channelId: live
-          projectId: cdk-admin
+          projectId: Angular-Dashboard
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
