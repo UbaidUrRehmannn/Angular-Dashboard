@@ -21,8 +21,8 @@
   },
   {
     "from": {
-      "name": "Hari",
-      "mail": "Hari@codetok.com"
+      "name": "Ubaid",
+      "mail": "Ubaid@syntecx.com"
     },
     "subject": "Test?",
     "content": "This is a test mail",
@@ -41,8 +41,8 @@
   },
   {
     "from": {
-      "name": "Ramya",
-      "mail": "ramya@codetok.com"
+      "name": "Ali",
+      "mail": "Ali@syntecx.com"
     },
     "subject": "new",
     "content": "This is a test mail",
@@ -61,8 +61,8 @@
   },
   {
     "from": {
-      "name": "Hari",
-      "mail": "hari@codetok.com"
+      "name": "Ubaid",
+      "mail": "Ubaid@syntecx.com"
     },
     "subject": "hai",
     "content": "This is a test mail",

@@ -31,5 +31,7 @@ export class UserMenuComponent implements OnInit {
 
   	ngOnInit() {
   	}
-
+	  profileClicked() {
+		console.log('Profile Clicked') 
+	  }
 }

@@ -10,7 +10,7 @@ export class ComposeComponent implements OnInit {
 
   mail;
   name;
-  address = 'hari@codetok.com';
+  address = 'Ubaid@syntecx.com';
   subject;
   content;
 
